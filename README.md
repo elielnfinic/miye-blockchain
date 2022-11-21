@@ -4,4 +4,4 @@ DIDs on parachains.
 
 This is based on Substrate(Polkadot).  
 
-The node is currently down on AWS.  
+The node is currently down on AWS(I stopped the node).    
